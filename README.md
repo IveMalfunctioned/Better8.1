@@ -1,6 +1,6 @@
 # Better8.1
 
-Better8.1 is a customized version of Windows 8.1 that aims to solve all of its problems that caused it to fail, making it much more suited for desktop users. 
+Better8.1 is a customized version of Windows 8.1 that aims to solve all of its problems that caused it to fail, making it much more suited for desktop users. It also includes updates and a few convenience tweaks.
 
 # Screenshot:
 

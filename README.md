@@ -4,7 +4,7 @@ Better8.1 is a customized version of Windows 8.1 that aims to solve all of its p
 
 # Screenshot:
 
-![image](https://user-images.githubusercontent.com/20033421/221379644-3a302baf-161d-435e-a548-2b749196efd1.png)
+![image](https://user-images.githubusercontent.com/20033421/221379700-ade86fb1-d430-4ccf-ae33-c33da7dd7541.png)
 
 # Download and changelog:
 ⁯
